@@ -3195,6 +3195,7 @@ a.post-thumbnail:hover {
 
 	.site-content .entry-meta > span {
 		margin-right: 10px;
+	    display: block;	
 	}
 
 	.site-content .format-video .post-format a:before {
